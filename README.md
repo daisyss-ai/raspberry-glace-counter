@@ -28,7 +28,10 @@ because it's styled with a sweet and beautiful pink tone named as **Raspberry Gl
 ---
 ## 🖼️ Preview
 
-- Coming Soon
+<video controls width="600">
+  <source src="vid/raspberry-glace-counter-prev.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ---
@@ -47,3 +50,4 @@ because it's styled with a sweet and beautiful pink tone named as **Raspberry Gl
    ```bash
    git clone https://github.com/your-username/counter-app.git
 
+ 

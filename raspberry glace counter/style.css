@@ -1,0 +1,41 @@
+h1, p{
+    text-align: center;
+    font-size: 70px;
+}
+
+*{
+    background-color: rgb(100, 75, 85);
+    color: rgb(237, 193, 208);
+}
+
+#counter-container{
+    align-items: center;
+    text-align: center;;
+}
+
+#counter{
+    font-size: 150px;
+    color: rgb(71, 44, 56);
+}
+
+.btns{
+    height: 3cm;
+    width: 4cm;
+    font-size: 25px;
+    border-radius: 20px;
+    background-color: rgb(255, 218, 235);
+    color: rgb(129, 101, 116);
+    border-color: rgb(129, 101, 116);
+    cursor: pointer;
+    transition: 
+      background-color 0.3s,
+      color 0.3s, 
+      border-color 0.3s;
+}
+
+
+.btns:hover {
+  background-color: rgb(129, 101, 116);
+  color: rgb(255, 218, 235);
+  border-color: rgb(255, 218, 235);
+}

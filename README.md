@@ -28,10 +28,7 @@ because it's styled with a sweet and beautiful pink tone named as **Raspberry Gl
 ---
 ## 🖼️ Preview
 
-<video controls width="600">
-  <source src="vid/raspberry-glace-counter-prev.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/daisyss-ai/raspberry-glace-counter/issues/1#issue-4033641295
 
 
 ---

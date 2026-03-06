@@ -28,7 +28,7 @@ because it's styled with a sweet and beautiful pink tone named as **Raspberry Gl
 ---
 ## 🖼️ Preview
 
-- Coming Soon :)
+- Coming Soon
 
 
 ---

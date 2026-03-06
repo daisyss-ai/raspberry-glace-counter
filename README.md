@@ -28,7 +28,9 @@ because it's styled with a sweet and beautiful pink tone named as **Raspberry Gl
 ---
 ## 🖼️ Preview
 
-https://github.com/daisyss-ai/raspberry-glace-counter/issues/1#issue-4033641295
+
+https://github.com/user-attachments/assets/e65f08a2-ac28-4297-8a6f-9190ae22b285
+
 
 
 ---
